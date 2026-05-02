@@ -1,0 +1,7 @@
+[
+    {"transaction_id": "T001", "customer_id": "C001", "product": {"id": "P01", "name": "Laptop", "category": "Electronics", "price": 999.99}, "quantity": 2, "discount": 0.05, "date": "2023/01/15 10:30:00", "region": "North"},
+    {"transaction_id": "T002", "customer_id": "C002", "product": {"id": "P02", "name": "Mouse", "category": "Accessories", "price": 19.99}, "quantity": 5, "discount": null, "date": "2023-02-10T14:15:00Z", "region": "South"},
+    {"transaction_id": "T003", "customer_id": null, "product": {"id": "P03", "name": "Monitor", "category": "Electronics", "price": 299.5}, "quantity": -1, "discount": 0.1, "date": "03-05-2023", "region": "East"},
+    {"transaction_id": "T004", "customer_id": "C004", "product": {"id": "P04", "name": "Keyboard", "category": "Accessories", "price": 49.9}, "quantity": 4, "discount": 0.15, "date": "2023-04-20", "region": "West"},
+    {"transaction_id": "T005", "customer_id": "C001", "product": {"id": "P05", "name": "Desk", "category": "Furniture", "price": 189.0}, "quantity": 3, "discount": 0, "date": "2023/05/12 12:30:00", "region": "North"}
+]
